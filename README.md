@@ -1,7 +1,7 @@
 
 # Consulta CEP
-### Lingua
-➡️[ English](README.en.md) 
+
+#### ➡️[ English](README.en.md) 
 
 Consulta CEP é um aplicativo móvel desenvolvido em Flutter que permite ao usuário consultar endereços a partir de um CEP informado. O aplicativo usa a API do ViaCEP como fonte de dados e apresenta o resultado em uma interface simples e intuitiva.
 
