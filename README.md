@@ -21,7 +21,7 @@ Isso vai iniciar o aplicativo no seu dispositivo ou emulador conectado.
 ## Uso do projeto
 Para usar o projeto, basta digitar um CEP válido no campo de texto e clicar no botão “Consultar”. O aplicativo vai fazer uma requisição à API do ViaCEP e retornar os dados do endereço correspondente ao CEP informado. Você pode ver um exemplo abaixo:
 
-##Créditos
+## Créditos
 A API do ViaCEP foi usada como fonte de dados para o projeto: https://viacep.com.br/
 
 
