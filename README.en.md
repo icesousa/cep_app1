@@ -1,5 +1,4 @@
 # CEP Lookup
-:cayman_islands:	[Portuguese version](#README.md)
 
 CEP Lookup is a mobile application developed in Flutter that allows users to look up addresses based on a given CEP (Brazilian Postal Code). The application uses the ViaCEP API as its data source and presents the result in a simple and intuitive interface.
 
