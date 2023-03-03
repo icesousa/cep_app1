@@ -5,12 +5,12 @@ Consulta CEP é um aplicativo móvel desenvolvido em Flutter que permite ao usu�
 
 ## Instalação e execução do projeto
 
-Para instalar e executar o projeto, você precisa ter o Flutter SDK instalado na sua máquina. Você pode seguir as instruções do site oficial do Flutter para fazer isso: https://flutter.dev/docs/get-started/install
+Para instalar e executar o projeto, você precisa ter o Flutter SDK instalado na sua máquina. Você pode seguir as instruções do site oficial do Flutter para fazer isso: https://docs.flutter.dev/get-started/install
 
 Depois de instalar o Flutter SDK, você pode clonar este repositório usando o comando:
 
 ```bash
-git clone https://github.com/icesousa/cep_app1.gi
+git clone https://github.com/icesousa/cep_app1
 ```
 Em seguida, você pode abrir o projeto no seu editor de código preferido e rodar o comando:
 ```bash
